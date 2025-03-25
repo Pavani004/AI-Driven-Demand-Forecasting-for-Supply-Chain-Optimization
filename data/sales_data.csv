@@ -1,0 +1,7 @@
+date,product_id,product_name,category,units_sold
+2022-01-01,101,Shampoo A,Hygiene,100
+2022-01-02,101,Shampoo A,Hygiene,120
+2022-01-01,102,Conditioner B,Hygiene,80
+2022-01-02,102,Conditioner B,Hygiene,85
+2022-01-01,103,Face Cream C,Skincare,150
+2022-01-02,103,Face Cream C,Skincare,160
